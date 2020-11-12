@@ -3,7 +3,7 @@
  * places new pieces for the human player or AI.
  *
  * @author Test
- */
+ */Md.Ariful Islam
 
 public class Game {
     private Board board = new Board();

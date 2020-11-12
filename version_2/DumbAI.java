@@ -2,7 +2,7 @@
  * Realization of AI interface using simplistic random placement strategy.
  *
  * @author INSERT YOUR NAME(S) HERE
- */
+ */Md.Ariful Islam
 
 import java.util.Random;
 

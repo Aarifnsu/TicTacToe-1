@@ -5,7 +5,7 @@
  * of the board to the console.
  *
  * @author INSERT YOUR NAME(S) HERE
- */
+ */Md.Ariful Islam
 
 import java.util.Scanner;
 
